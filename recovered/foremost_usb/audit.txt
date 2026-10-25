@@ -1,0 +1,29 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Oct 24 12:47:02 2026
+Invocation: foremost -v -t jpg -i working/working_RHINOUSB.dd -o recovered/foremost_usb 
+Output directory: /home/kali/Desktop/Adekunle_Ogunyemi/SBT-DF204-Case_Study_4/recovered/foremost_usb
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: working/working_RHINOUSB.dd
+Start: Sat Oct 24 12:47:02 2026
+Length: 247 MB (259506176 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00104057.jpg 	      93 KB 	   53277184 	 
+1:	00104249.jpg 	     405 KB 	   53375488 	 
+2:	00105065.jpg 	     401 KB 	   53793280 	 
+3:	00105873.jpg 	     258 KB 	   54206976 	 
+4:	00106393.jpg 	       6 KB 	   54473216 	 
+5:	00106409.jpg 	     225 KB 	   54481408 	 
+6:	00335081.jpg 	     258 KB 	  171561472 	 
+Finish: Sat Oct 24 12:47:03 2026
+
+7 FILES EXTRACTED
+	
+jpg:= 7
+------------------------------------------------------------------
+
+Foremost finished at Sat Oct 24 12:47:03 2026

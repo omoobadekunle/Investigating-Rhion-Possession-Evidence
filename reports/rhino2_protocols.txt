@@ -1,0 +1,15 @@
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+frame                                    frames:370 bytes:286660
+  eth                                    frames:370 bytes:286660
+    ip                                   frames:370 bytes:286660
+      tcp                                frames:370 bytes:286660
+        http                             frames:26 bytes:16139
+          data-text-lines                frames:7 bytes:6706
+          image-gif                      frames:5 bytes:3842
+          image-jfif                     frames:1 bytes:273
+        imap                             frames:4 bytes:345
+===================================================================

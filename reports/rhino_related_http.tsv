@@ -1,0 +1,12 @@
+frame.number	frame.time	ip.src	ip.dst	http.host	http.request.uri
+49	2004-04-28T22:08:38.073111000+0100	137.30.123.234	137.30.120.37	www.cs.uno.edu	/~gnome/rhino4.jpg
+215	2004-04-28T22:08:38.274614000+0100	137.30.120.37	137.30.123.234		/~gnome/rhino4.jpg
+217	2004-04-28T22:08:44.189294000+0100	137.30.123.234	137.30.120.37	www.cs.uno.edu	/~gnome/rhino5.gif
+312	2004-04-28T22:08:44.378087000+0100	137.30.120.37	137.30.123.234		/~gnome/rhino5.gif
+frame.number	frame.time	ip.src	ip.dst	http.host	http.request.uri
+10	2004-04-28T22:15:48.234997000+0100	137.30.123.234	64.233.167.99	www.google.com	/search?hl=en&ie=UTF-8&oe=UTF-8&q=rhino.exe
+28	2004-04-28T22:15:48.725700000+0100	64.233.167.99	137.30.123.234		/search?hl=en&ie=UTF-8&oe=UTF-8&q=rhino.exe
+59	2004-04-28T22:15:55.113910000+0100	137.30.123.234	216.239.51.99	groups.google.com	/groups?q=rhino.exe&hl=en&lr=&ie=UTF-8&oe=UTF-8&sa=N&tab=wg
+85	2004-04-28T22:16:02.002505000+0100	137.30.123.234	216.239.51.99	groups.google.com	/groups?q=rhino.exe&hl=en&lr=&ie=UTF-8&oe=UTF-8&selm=MPG.159359f528ff3d2798aaca%40news.ntlworld.com&rnum=2
+110	2004-04-28T22:16:23.343061000+0100	137.30.123.234	137.30.120.37	www.cs.uno.edu	/~gnome/rhino.exe
+274	2004-04-28T22:16:24.214222000+0100	137.30.120.37	137.30.123.234		/~gnome/rhino.exe

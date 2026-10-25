@@ -1,0 +1,19 @@
+Case Study 4 - Evidence Integrity Record
+Sat Oct 24 02:05:39 PM UTC 2026
+
+FILE: working/working_RHINOUSB.dd
+Size (bytes): 259506176
+ce550424200a997c61b413941c8ef4df9619a2f96579674952294a176a32be65  working/working_RHINOUSB.dd
+
+FILE: working/working_rhino.log
+Size (bytes): 3187907
+64e6d55b76660eb3aaa41572c1d04e4452510a343bbf42e844424827dedfddb2  working/working_rhino.log
+
+FILE: working/working_rhino2.log
+Size (bytes): 292604
+41939d5de0556b70279056572dee44b6fd84cd05b0788cfd0b6f52f37b161dde  working/working_rhino2.log
+
+FILE: working/working_rhino3.log
+Size (bytes): 226094
+7b0304f5e88a30c305a99b5a1e2977bced5b9c94da6f458f887bb39966bbfc46  working/working_rhino3.log
+

@@ -1,0 +1,70 @@
+
+7-Zip 26.03 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-09-03
+ 64-bit locale=en_US.UTF-8 Threads:128 OPEN_MAX:4096, ASM
+
+Scanning the drive for archives:
+1 file, 145920 bytes (143 KiB)
+
+Listing archive: recovered/http_rhino3/rhino.exe
+
+--
+Path = recovered/http_rhino3/rhino.exe
+Type = PE
+Physical Size = 145920
+CPU = x86
+Characteristics = Executable 32-bit NoRelocs NoLineNums NoLocalSyms
+Created = 2001-08-17 21:59:36
+Headers Size = 1024
+Checksum = 200663
+Name = diskpart.rc
+Image Size = 167936
+Section Alignment = 4096
+File Alignment = 512
+Code Size = 111616
+Initialized Data Size = 41984
+Uninitialized Data Size = 0
+Linker Version = 7.0
+OS Version = 5.1
+Image Version = 5.1
+Subsystem Version = 4.0
+Subsystem = Windows CUI
+DLL Characteristics = TerminalServerAware
+Stack Reserve = 262144
+Stack Commit = 4096
+Heap Reserve = 1048576
+Heap Commit = 4096
+Virtual Address = 0x1000000
+Comment = 
+{
+FileVersion: 1.0.3.1
+FileVersion: 1, 0, 3, 1
+ProductVersion: 1.0.3.1
+ProductVersion: 1, 0, 3, 1
+Comments: 
+CompanyName: Microsoft Corporation
+FileDescription: Diskpart Application
+InternalName: diskpart
+LegalCopyright: Copyright © 2000
+LegalTrademarks: 
+OriginalFilename: diskpart.rc
+PrivateBuild: 
+ProductName: Microsoft Corporation Diskpart Application
+SpecialBuild: 
+Data Directories: 16
+{
+index=1 name=IMPORT VA=0x1B828 Size=160
+index=2 name=RESOURCE VA=0x21000 Size=28776
+index=6 name=DEBUG VA=0x1230 Size=28
+index=11 name=BOUND_IMPORT VA=0x258 Size=156
+index=12 name=IAT VA=0x1000 Size=496
+}
+}
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-08-17 21:59:36 .....       111454       111616  .text
+2001-08-17 21:59:36 .....         4096         4096  .data
+                    .....         1720         1720  .rsrc/version.txt
+                    .....        30142        30142  .rsrc/string.txt
+------------------- ----- ------------ ------------  ------------------------
+2001-08-17 21:59:36             147412       147574  4 files

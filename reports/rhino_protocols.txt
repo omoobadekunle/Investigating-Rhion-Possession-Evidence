@@ -1,0 +1,22 @@
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+frame                                    frames:6557 bytes:3082971
+  eth                                    frames:6557 bytes:3082971
+    ip                                   frames:6557 bytes:3082971
+      tcp                                frames:6557 bytes:3082971
+        http                             frames:413 bytes:212533
+          data-text-lines                frames:36 bytes:25568
+          urlencoded-form                frames:6 bytes:4436
+          image-gif                      frames:68 bytes:36990
+          image-jfif                     frames:12 bytes:13366
+        tls                              frames:16 bytes:9212
+        msnms                            frames:38 bytes:2532
+        imap                             frames:1051 bytes:1443797
+        telnet                           frames:568 bytes:38205
+          _ws.malformed                  frames:3 bytes:180
+        ftp                              frames:50 bytes:4428
+        ftp-data                         frames:338 bytes:508319
+===================================================================

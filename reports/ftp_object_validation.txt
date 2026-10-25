@@ -1,0 +1,42 @@
+FTP Object Validation
+Sun Oct 25 12:53:35 PM UTC 2026
+
+File types and sizes:
+recovered/ftp_objects/contraband(1).zip: Zip archive data, made by v2.0, extract using at least v2.0, last modified Apr 26 2004 17:00:12, uncompressed size 230665, method=deflate
+recovered/ftp_objects/contraband.zip:    Zip archive data, made by v2.0, extract using at least v2.0, last modified Apr 26 2004 17:00:12, uncompressed size 230665, method=deflate
+recovered/ftp_objects/rhino1(1).jpg:     JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, comment: "File written by Adobe Photoshop\250 4.0", baseline, precision 8, 501x360, components 3
+recovered/ftp_objects/rhino1.jpg:        JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, comment: "File written by Adobe Photoshop\250 4.0", baseline, precision 8, 501x360, components 3
+recovered/ftp_objects/rhino2.jpg:        empty
+recovered/ftp_objects/rhino3(1).jpg:     JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 720x597, components 3
+recovered/ftp_objects/rhino3(2).jpg:     JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 720x597, components 3
+recovered/ftp_objects/rhino3(3).jpg:     JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 720x597, components 3
+recovered/ftp_objects/rhino3.jpg:        JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 720x597, components 3
+total 976
+-rw-r--r-- 1 kali kali 230566 Oct 23 16:19 contraband(1).zip
+-rw-r--r-- 1 kali kali 230566 Oct 23 16:18 contraband.zip
+-rw-r--r-- 1 kali kali  65703 Oct 23 16:19 rhino1(1).jpg
+-rw-r--r-- 1 kali kali  65703 Oct 23 16:18 rhino1.jpg
+-rw-rw-r-- 1 kali kali      0 Oct 24 11:45 rhino2.jpg
+-rw-r--r-- 1 kali kali  96899 Oct 23 16:18 rhino3(1).jpg
+-rw-r--r-- 1 kali kali  96899 Oct 23 16:19 rhino3(2).jpg
+-rw-r--r-- 1 kali kali  96899 Oct 23 16:19 rhino3(3).jpg
+-rw-r--r-- 1 kali kali  96899 Oct 23 16:18 rhino3.jpg
+
+SHA-256 hashes:
+b7091a0b4295a561bf76969073ede126a5ca75899bb115447e67272f95d5a29f  recovered/ftp_objects/contraband(1).zip
+b7091a0b4295a561bf76969073ede126a5ca75899bb115447e67272f95d5a29f  recovered/ftp_objects/contraband.zip
+0f30a8777d19a4fe4b2fafd5154b6c4dfafb673202db29971e876e978da4e05d  recovered/ftp_objects/rhino1(1).jpg
+0f30a8777d19a4fe4b2fafd5154b6c4dfafb673202db29971e876e978da4e05d  recovered/ftp_objects/rhino1.jpg
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  recovered/ftp_objects/rhino2.jpg
+a85aea8e47d9f5425456f3bafb9c67201c8c2b2b2cec80154c83102e802240c5  recovered/ftp_objects/rhino3(1).jpg
+a85aea8e47d9f5425456f3bafb9c67201c8c2b2b2cec80154c83102e802240c5  recovered/ftp_objects/rhino3(2).jpg
+a85aea8e47d9f5425456f3bafb9c67201c8c2b2b2cec80154c83102e802240c5  recovered/ftp_objects/rhino3(3).jpg
+a85aea8e47d9f5425456f3bafb9c67201c8c2b2b2cec80154c83102e802240c5  recovered/ftp_objects/rhino3.jpg
+
+ZIP archive listing:
+Archive:  recovered/ftp_objects/contraband.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+   230665  2004-04-26 17:00   rhino2.jpg
+---------                     -------
+   230665                     1 file

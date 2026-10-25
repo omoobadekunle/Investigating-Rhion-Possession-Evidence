@@ -1,0 +1,11 @@
+UTC timestamp,Evidence source,Event,Supporting evidence,Limitation
+2004-04-26T22:21:49.954047Z,FTP capture,STOR request for rhino1.jpg,Frame 1546,Request timestamp; server completion recorded at frame 1612
+2004-04-26T22:21:50.179677Z,FTP capture,Server reports rhino1.jpg transfer complete,Frame 1612,Confirms server response in capture
+2004-04-26T22:22:08.905569Z,FTP capture,STOR request for rhino3.jpg,Frame 1649,First transfer used ASCII mode
+2004-04-26T22:22:16.091224Z,FTP capture,Second STOR request for rhino3.jpg,Frame 1763,Second transfer used binary mode
+2004-04-26T22:26:46.671569Z,FTP capture,STOR request for contraband.zip,Frame 5647,Server completion recorded at frame 5839
+2004-04-28T21:15:48.234997Z,HTTP capture,Client searches Google for rhino.exe,Frame 10,Records a search request
+2004-04-28T21:16:23.343061Z,HTTP capture,Client requests rhino.exe,Frame 110,Request to 137.30.120.37
+2004-04-28T21:16:24.214222Z,HTTP capture,HTTP 200 response for rhino.exe,Frame 274,Response reports application/octet-stream and 145920 bytes
+2004-04-30T17:11:20Z,USB filesystem metadata,gumbo1.txt written/created timestamps,istat entry 4,Filesystem metadata in WAT converted to UTC; not proof of user activity
+2004-04-30T17:11:24Z,USB filesystem metadata,gumbo2.txt written/created timestamps,istat entry 6,Filesystem metadata in WAT converted to UTC; not proof of user activity

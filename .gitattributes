@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+working/working_RHINOUSB.dd filter=lfs diff=lfs merge=lfs -text
+original_evidence/RHINOUSB.dd filter=lfs diff=lfs merge=lfs -text

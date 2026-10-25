@@ -1,0 +1,23 @@
+=== CARVED JPEG HASHES ===
+2261020a0b31fe10c3ae2872c6283e42993e24e87f1a76822e5840ed1838014e  recovered/foremost_usb/jpg/00104057.jpg
+8cdb89c6778d3409a80355bf2b9c644c1bf0c5e31c43047080da9ea5a859de07  recovered/foremost_usb/jpg/00104249.jpg
+452075313c93ae313331a86e8cac2f35ea3bdc24700cabf4444e39f5836403ea  recovered/foremost_usb/jpg/00105065.jpg
+f92654d9ee17ab6b684b09de01cf0bc4076383c007964946d3f31577447596fb  recovered/foremost_usb/jpg/00105873.jpg
+568457ed594c4e98dc503e3e244b1e316376aafb0d1c283d95601d13762a748c  recovered/foremost_usb/jpg/00106393.jpg
+b4f6bbb8d846d6505c9b5b67f115656fdf980a484aa441078a838a3ffc2ac705  recovered/foremost_usb/jpg/00106409.jpg
+f92654d9ee17ab6b684b09de01cf0bc4076383c007964946d3f31577447596fb  recovered/foremost_usb/jpg/00335081.jpg
+
+=== RECOVERED TEXT FILE HASHES ===
+ecb06cec73218f66d19cccfd1e45ab7144b02eb5344d9ede14e1c8428d76713c  recovered/tsk_recover_all/gumbo1.txt
+84cc7105cc6d663d230574d32256dd42bf96d7f077456e357ec9daacd59f87aa  recovered/tsk_recover_all/gumbo2.txt
+
+=== RECOVERED FILE TYPES ===
+recovered/foremost_usb/jpg/00104057.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 0x0, segment length 16, comment: "copyright 2000 philg@mit.edu", baseline, precision 8, 528x792, components 3
+recovered/foremost_usb/jpg/00104249.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1349x900, components 3
+recovered/foremost_usb/jpg/00105065.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1686x1122, components 3
+recovered/foremost_usb/jpg/00105873.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1024x768, components 3
+recovered/foremost_usb/jpg/00106393.jpg: JPEG image data, JFIF standard 1.00, resolution (DPI), density 72x72, segment length 16, comment: "LEAD Technologies Inc. V1.01", baseline, precision 8, 169x228, components 3
+recovered/foremost_usb/jpg/00106409.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 170x170, segment length 16, baseline, precision 8, 1024x685, components 3
+recovered/foremost_usb/jpg/00335081.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1024x768, components 3
+recovered/tsk_recover_all/gumbo1.txt: Non-ISO extended-ASCII text, with very long lines (355)
+recovered/tsk_recover_all/gumbo2.txt: ISO-8859 text

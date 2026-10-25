@@ -1,0 +1,9 @@
+Evidence ID	Item	Location / identifier	Examination performed	Result / status
+E01	USB disk image	working/working_RHINOUSB.dd	SHA-256; fsstat; fls; istat; Foremost	Working image hash recorded; FAT16; two allocated text files; seven JPEGs carved
+E02	FTP capture	working/working_rhino.log	SHA-256; TShark FTP command and response analysis	Uploads recorded for rhino1.jpg, rhino3.jpg and contraband.zip
+E03	HTTP capture	working/working_rhino2.log	SHA-256; HTTP request analysis	Requests for rhino4.jpg and rhino5.gif observed
+E04	HTTP capture	working/working_rhino3.log	SHA-256; HTTP request and response analysis	Request for rhino.exe and HTTP 200 response recorded
+E05	Recovered text files	recovered/gumbo1.txt; recovered/gumbo2.txt	SHA-256 comparison against TSK recovery copies	Matching hashes between duplicate recovered copies
+E06	Carved JPEG files	recovered/foremost_usb/jpg/	SHA-256; file; ExifTool; Binwalk; Steghide	Seven JPEGs recovered; two have matching hashes; hidden content not confirmed by tests performed
+E07	FTP archive	recovered/ftp_objects/contraband.zip	sha256sum; unzip -l; zipinfo -v	One encrypted entry named rhino2.jpg; archive not decrypted
+E08	Recovered executable	recovered/http_rhino3/rhino.exe	File identification; SHA-256; metadata inspection	PE32 Windows executable; not executed
