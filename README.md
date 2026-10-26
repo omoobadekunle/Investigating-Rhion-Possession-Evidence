@@ -475,6 +475,6 @@ Student, SBT-DF204 · International Cybersecurity and Digital Forensics
 
 ---
 
-## Author
+## Disclaimer
 
 *This project is for educational purposes only.*
